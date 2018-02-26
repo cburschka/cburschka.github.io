@@ -24,10 +24,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: christoph@burschka.de
-website: cv.cburschka.de #do not add http://
+website: christoph.cburschka.de #do not add http://
 linkedin: cburschka
 github: cburschka
-twitter: 'cburschka'
+twitter: cburschka
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar

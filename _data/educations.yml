@@ -1,16 +1,13 @@
 - education:
   degree: MSc in Computer Science
   university: Goethe University Frankfurt
-  time: 2009-2013
+  time: 2013 - 2016
   details: >
     Focus on complexity theory and computability, with a secondary focus on
     numerical modeling and simulation. Thesis: [Logical Characterisations of
     Symmetric Circuits](/assets/downloads/master.pdf).
 - education:
   degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2013 - 2016
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  university: Goethe University Frankfurt
+  time: 2009 - 2013
+  details: ""
